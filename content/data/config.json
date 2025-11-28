@@ -47,7 +47,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/inter_ico_w.png",
+            "url": "/images/inter_ico_white.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
