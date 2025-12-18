@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/intermobs/'
         styles:
           self:
             textAlign: left
@@ -217,7 +217,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Python
       - type: Label
         label: C++
       - type: Label
@@ -239,7 +239,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [intermobsinc@gmail.com](mailto:intermobsinc@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -288,13 +288,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **2016-2019**
 
-          * ba computer sciense at a semi fancy school
+          * ba computer sciense at ECOT
 
-          **2014**
+          **2015**
 
-          * react certificate somewhere
+          * SGCSE at BUHS
 
           **2011**
 
