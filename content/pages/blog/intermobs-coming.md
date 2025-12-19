@@ -1,10 +1,9 @@
 ---
 type: PostLayout
-title: Here is the Title
+title: Welcome to my Site
 date: '2024-10-22'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Lapha ke ssenta umsebenti loncomekako kucode and design. Feel free to contact us for details and stuff. Ungasali. Walala, Wasala
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
