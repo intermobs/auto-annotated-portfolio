@@ -194,3 +194,26 @@ sections:
       text:
         textAlign: left
 ---
+<form
+  name="sign-up-form"
+  method="POST"
+  data-netlify="true"
+  netlify-honeypot="bot-field"
+>
+  <input type="hidden" name="form-name" value="sign-up-form" />
+
+  <!-- Honeypot -->
+  <input type="hidden" name="bot-field" />
+
+  <input type="text" name="firstName" placeholder="First Name" required />
+  <input type="text" name="lastName" placeholder="Last Name" />
+  <input type="email" name="email" placeholder="Email" required />
+  <input type="text" name="address" placeholder="Address" required />
+
+  <label>
+    <input type="checkbox" name="updatesConsent" />
+    Sign me up to receive updates
+  </label>
+
+  <button type="submit">Submit 🚀</button>
+</form>
