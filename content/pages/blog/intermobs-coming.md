@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Welcome to my Site
-date: '2024-10-22'
+date: '2026-01-01'
 excerpt: >-
   Lapha ke ssenta umsebenti loncomekako kucode and design. Feel free to contact us for details and stuff. Ungasali. Walala, Wasala
 featuredImage:
